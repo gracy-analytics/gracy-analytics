@@ -36,3 +36,10 @@ An end-to-end data analytics project exploring global e-commerce sales, customer
 Khalsa College for Women, Ludhiana  
 Punjabi University  
 2023 – 2027 (Expected)
+
+## Certifications
+
+- **Data Analyst Essentials** – COSCI
+  - Completed all 10 modules.
+  - Final Score: 966/1100 (87.82%).
+  - Certificate and badge earned.
