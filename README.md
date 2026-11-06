@@ -28,3 +28,11 @@ An end-to-end data analytics project exploring global e-commerce sales, customer
 - Product profitability
 - Returns and refund analysis
 - Interactive dashboard development
+
+- ## Education
+
+**B.Sc. in Computer Applications**
+
+Khalsa College for Women, Ludhiana  
+Punjabi University  
+2023 – 2027 (Expected)
