@@ -29,12 +29,12 @@ An end-to-end data analytics project exploring global e-commerce sales, customer
 - Returns and refund analysis
 - Interactive dashboard development
 
-  ## Education
+## Education
 
-**B.Sc. in Computer Applications**
+**Bachelor of Science (B.Sc.) – Computer Applications**
 
 Khalsa College for Women, Ludhiana  
-Punjabi University  
+Panjab University, Chandigarh  
 2023 – 2027 (Expected)
 
 ## Certifications
