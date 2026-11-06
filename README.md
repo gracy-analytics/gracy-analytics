@@ -43,3 +43,9 @@ Panjab University, Chandigarh
   - Completed all 10 modules.
   - Final Score: 966/1100 (87.82%).
   - Certificate and badge earned.
+ 
+## Connect with Me
+
+- **GitHub:** [gracy-analytics](https://github.com/gracy-analytics)
+- **LinkedIn:** Coming soon
+- **Email:** [gracychauhan770@gmail.com](mailto:gracychauhan770@gmail.com)
