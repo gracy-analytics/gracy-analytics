@@ -13,3 +13,18 @@ I work with Excel, SQL, Python, and Power BI, and enjoy building practical proje
 | Programming | Python, Pandas |
 | Data Visualization | Power BI, DAX, Data Modelling |
 | Tools | GitHub, Visual Studio Code |
+
+## Featured Project
+
+### SmartCart – E-Commerce Sales & Returns Analysis
+
+An end-to-end data analytics project exploring global e-commerce sales, customer distribution, product profitability, and product returns.
+
+**Tools Used:** Excel, SQL, Python, Power BI
+
+**Key Areas:**
+- Sales and revenue analysis
+- Customer and product performance
+- Product profitability
+- Returns and refund analysis
+- Interactive dashboard development
