@@ -29,7 +29,7 @@ An end-to-end data analytics project exploring global e-commerce sales, customer
 - Returns and refund analysis
 - Interactive dashboard development
 
-- ## Education
+  ## Education
 
 **B.Sc. in Computer Applications**
 
